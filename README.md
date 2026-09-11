@@ -13,7 +13,7 @@ The main goal of this repository is to build strong SQL fundamentals and develop
 ## 🛠️ Technologies Used
 
 * SQL
-* MySQL
+* Postgres SQL
 * Relational Databases
 * Database Management Systems (DBMS)
 
