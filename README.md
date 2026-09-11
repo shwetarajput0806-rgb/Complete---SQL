@@ -309,7 +309,7 @@ Through this repository, I focused on:
 
 ## 💡 Key Skills
 
-**SQL | MySQL | Data Analysis | Database Management | Joins | Subqueries | CTEs | Window Functions | Data Aggregation | Query Optimization**
+**SQL | Postgres SQL | Data Analysis | Database Management | Joins | Subqueries | CTEs | Window Functions | Data Aggregation | Query Optimization**
 
 ---
 
