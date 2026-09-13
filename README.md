@@ -269,30 +269,6 @@ SQL concepts were also practiced from a **Data Analytics perspective**, includin
 
 ---
 
-## 📂 Repository Structure
-
-```text
-SQL/
-│
-├── 01_Basics/
-├── 02_Filtering_Sorting/
-├── 03_Functions/
-├── 04_Group_By_Having/
-├── 05_Joins/
-├── 06_Subqueries/
-├── 07_Set_Operations/
-├── 08_CTE/
-├── 09_Window_Functions/
-├── 10_Constraints/
-├── 11_Views/
-├── 12_Indexing/
-├── 13_Transactions/
-├── 14_Interview_Questions/
-└── 15_Practice_Problems/
-```
-
----
-
 ## 🎯 Learning Goals
 
 Through this repository, I focused on:
